@@ -5,23 +5,18 @@ package Medium;
  */
 public class FindTheDuplicateNumber {
     public int findDuplicate(int[] nums) {
-        int low = 1;
-        int high = nums.length - 1;
-        while (low < high) {
-            int mid = (low + high) / 2;
-            int count = 0;
-            for (int i = 0; i < nums.length; i++) {
-                if (nums[i] <= mid) {
-                    count++;
-                }
-            }
-
-            if (count > mid) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
+        int n = nums.length;
+        int slow = n;
+        int fast = n;
+        do{
+            slow = nums[slow-1];
+            fast = nums[nums[fast-1]-1];
+        }while(slow != fast);
+        slow = n;
+        while(slow != fast){
+            slow = nums[slow-1];
+            fast = nums[fast-1];
         }
-        return low;
+        return slow;
     }
 }
