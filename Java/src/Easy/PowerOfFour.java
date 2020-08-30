@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-26.
+ * NO.342
  */
 public class PowerOfFour {
     public boolean isPowerOfFour(int num) {

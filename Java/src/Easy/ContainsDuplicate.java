@@ -1,9 +1,8 @@
 package Easy;
 
-import java.util.Arrays;
-
 /**
  * Created by zhaosi on 17-6-19.
+ * NO.217
  */
 public class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {

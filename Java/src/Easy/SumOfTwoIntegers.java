@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-25.
+ * NO.371
  */
 public class SumOfTwoIntegers {
     public int getSum(int a, int b) {

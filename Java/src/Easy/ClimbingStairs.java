@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-21.
+ * NO.70
  */
 public class ClimbingStairs {
     public int climbStairs(int n) {

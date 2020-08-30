@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-21.
+ * NO.21
  */
 public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

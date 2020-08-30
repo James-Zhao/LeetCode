@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-20.
+ * NO.171
  */
 public class ExcelSheetColumnNumber {
     public int titleToNumber(String s) {

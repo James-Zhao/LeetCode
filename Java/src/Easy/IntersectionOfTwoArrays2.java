@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 /**
  * Created by zhaosi on 17-6-25.
+ * NO.350
  */
 public class IntersectionOfTwoArrays2 {
     public int[] intersect(int[] nums1, int[] nums2) {

@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-19.
+ * NO.9
  */
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {

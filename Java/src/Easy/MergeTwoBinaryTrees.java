@@ -1,9 +1,8 @@
 package Easy;
 
-import java.util.Collections;
-
 /**
  * Created by zhaosi on 17-6-20.
+ * NO.617
  */
 public class MergeTwoBinaryTrees {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {

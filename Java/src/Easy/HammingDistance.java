@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-25.
+ * NO.461
  */
 public class HammingDistance {
     public int hammingDistance(int x, int y) {

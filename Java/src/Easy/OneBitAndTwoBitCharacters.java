@@ -1,5 +1,8 @@
 package Easy;
 
+/**
+ * NO.717
+ */
 public class OneBitAndTwoBitCharacters {
     public boolean isOneBitCharacter(int[] bits) {
         int count = 0;

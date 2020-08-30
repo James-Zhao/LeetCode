@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-26.
+ * NO.606
  */
 public class ConstructStringFromBinaryTree {
     public String tree2str(TreeNode t) {

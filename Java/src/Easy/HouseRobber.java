@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by zhaosi on 17-6-21.
+ * NO.198
  */
 public class HouseRobber {
     public int rob(int[] nums) {

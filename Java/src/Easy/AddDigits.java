@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-20.
+ * NO.258
  */
 public class AddDigits {
     public int addDigits(int num) {

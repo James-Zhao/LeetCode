@@ -3,6 +3,9 @@ package Easy;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * NO.118
+ */
 public class PascalsTriangle {
     public List<List<Integer>> generate(int numRows) {
 //        List<List<Integer>> result = new ArrayList<>();

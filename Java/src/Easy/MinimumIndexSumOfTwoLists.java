@@ -7,6 +7,7 @@ import java.util.Map;
 
 /**
  * Created by zhaosi on 17-6-20.
+ * NO.599
  */
 public class MinimumIndexSumOfTwoLists {
     public String[] findRestaurant(String[] list1, String[] list2) {

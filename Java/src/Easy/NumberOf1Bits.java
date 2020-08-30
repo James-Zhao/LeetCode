@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-20.
+ * NO.191
  */
 public class NumberOf1Bits {
     public int hammingWeight(int n) {

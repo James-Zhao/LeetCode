@@ -4,6 +4,7 @@ import java.util.List;
 
 /**
  * Created by zhaosi on 17-6-20.
+ * NO.624
  */
 public class MaximumDistanceInArrays {
     public int maxDistance(List<List<Integer>> arrays) {

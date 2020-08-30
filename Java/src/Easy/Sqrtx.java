@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-19.
+ * NO.69
  */
 public class Sqrtx {
     public int mySqrt(int x) {

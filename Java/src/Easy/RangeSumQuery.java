@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-21.
+ * NO.303
  */
 public class RangeSumQuery {
     class NumArray {

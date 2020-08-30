@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * Created by zhaosi on 17-6-21.
+ * NO.575
  */
 public class DistributeCandies {
     public int distributeCandies(int[] candies) {

@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-7-2.
+ * NO.234
  */
 public class PalindromeLinkedList {
     public boolean isPalindrome(ListNode head) {

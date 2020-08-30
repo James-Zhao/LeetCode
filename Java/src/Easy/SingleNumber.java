@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-19.
+ * NO.136
  */
 public class SingleNumber {
     public int singleNumber(int[] nums) {

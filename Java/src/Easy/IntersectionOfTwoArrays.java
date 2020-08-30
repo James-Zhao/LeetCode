@@ -7,6 +7,7 @@ import java.util.Set;
 
 /**
  * Created by zhaosi on 17-6-25.
+ * NO.349
  */
 public class IntersectionOfTwoArrays {
     public int[] intersection(int[] nums1, int[] nums2) {

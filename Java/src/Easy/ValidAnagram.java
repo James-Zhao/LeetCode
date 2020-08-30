@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-19.
+ * NO.242
  */
 public class ValidAnagram {
     public boolean isAnagram(String s, String t) {

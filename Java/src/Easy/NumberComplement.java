@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Created by zhaosi on 17-6-25.
+ * NO.476
  */
 public class NumberComplement {
     public int findComplement(int num) {
