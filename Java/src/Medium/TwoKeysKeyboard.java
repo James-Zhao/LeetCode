@@ -1,5 +1,8 @@
 package Medium;
 
+/**
+ * NO.650
+ */
 public class TwoKeysKeyboard {
     public int minSteps(int n) {
         int[] dp = new int[n + 1];

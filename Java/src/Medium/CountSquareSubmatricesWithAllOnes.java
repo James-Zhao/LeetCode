@@ -1,5 +1,8 @@
 package Medium;
 
+/**
+ * NO.1277
+ */
 public class CountSquareSubmatricesWithAllOnes {
     public int countSquares(int[][] matrix) {
         int n = matrix.length;

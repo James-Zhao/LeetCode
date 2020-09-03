@@ -2,6 +2,7 @@ package Medium;
 
 /**
  * Created by zhaosi on 17-6-22.
+ * NO.19
  */
 public class RemoveNthNodeFromEndOfList {
     public ListNode removeNthFromEnd(ListNode head, int n) {

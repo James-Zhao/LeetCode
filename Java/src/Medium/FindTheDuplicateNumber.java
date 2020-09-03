@@ -2,6 +2,7 @@ package Medium;
 
 /**
  * Created by zhaosi on 17-6-25.
+ * NO.287
  */
 public class FindTheDuplicateNumber {
     public int findDuplicate(int[] nums) {

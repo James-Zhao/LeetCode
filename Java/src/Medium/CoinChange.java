@@ -1,5 +1,8 @@
 package Medium;
 
+/**
+ * NO.322
+ */
 public class CoinChange {
     public int coinChange(int[] coins, int amount) {
         if (coins == null || coins.length == 0 || amount <= 0) {
