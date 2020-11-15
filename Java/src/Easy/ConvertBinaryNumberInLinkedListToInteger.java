@@ -8,7 +8,7 @@ public class ConvertBinaryNumberInLinkedListToInteger {
         ListNode node = head;
         int ans = 0;
         while (node != null) {
-            s = ans * 2 + node.val;
+            ans = ans * 2 + node.val;
             node = node.next;
         }
         return ans;
