@@ -1,5 +1,0 @@
-# Write your MySQL query statement below
-SELECT Department.Name as Department, Employee.Name as Employee, Employee.Salary 
-From Department, Employee 
-WHERE Employee.DepartmentId = Department.Id
-AND Employee.Salary = (SELECT MAX(Salary) FROM Employee as e WHERE e.DepartmentId = Department.Id)
