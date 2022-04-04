@@ -4,7 +4,7 @@ package Medium;
  * Created by zhaosi on 17-6-24.
  * NO.61
  */
-public class RotateList {
+public class RotateRight {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null) return null;
         if (k == 0) return head;

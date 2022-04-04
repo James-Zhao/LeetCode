@@ -1,4 +1,4 @@
-package Easy;
+package Medium;
 
 /**
  * NO.538

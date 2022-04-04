@@ -1,4 +1,4 @@
-package Easy;
+package Medium;
 
 /**
  * Created by zhaosi on 17-6-19.
